@@ -44,17 +44,3 @@ Built with **Logistic Regression** and deployed via **Streamlit**.
 The model is deployed as an interactive web app using **Streamlit**.
 
 ---
-
-### Project Structure
-
-employee-salary-prediction/
-│
-├── adult 3.csv                   # Input dataset
-├── emp.py                        # Data cleaning, model training
-├── app2.py                       # Streamlit frontend
-├── salary_prediction_pipeline.pkl  # Saved ML model
-├── salary_label_encoder.pkl        # Label encoder
-└── README.md                     # Project documentation
-
----
-
