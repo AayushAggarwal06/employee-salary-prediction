@@ -44,6 +44,20 @@ This project uses **Logistic Regression** and is deployed locally through a **St
 
 You can enter employee details and get a real-time salary category prediction (`<=50K` or `>50K`).
 
+
+# Run the Streamlit App
+```bash
+cd C:\Users\manis\Desktop\employee-salary-prediction-main
+```
+
+```bash
+pip install streamlit
+```
+
+```bash
+streamlit run app2.py
+```
+
 ---
 
 ## 📚 References
